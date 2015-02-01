@@ -1,0 +1,352 @@
+[
+    {
+        "name": "Dennis Pagac",
+        "gender": "male",
+        "device": "ios",
+        "location": "Putrajaya",
+        "spending": 218.05
+    },
+    {
+        "name": "Jeffrey Kris",
+        "gender": "male",
+        "device": "android",
+        "location": "Putrajaya",
+        "spending": 351.27
+    },
+    {
+        "name": "Bernita Sauer",
+        "gender": "female",
+        "device": "ios",
+        "location": "Selangor",
+        "spending": 398.79
+    },
+    {
+        "name": "Dangelo Schmeler",
+        "gender": "male",
+        "device": "ios",
+        "location": "KL",
+        "spending": 365.54
+    },
+    {
+        "name": "Athena Kassulke",
+        "gender": "female",
+        "device": "android",
+        "location": "KL",
+        "spending": 436.05
+    },
+    {
+        "name": "Pedro Bednar",
+        "gender": "male",
+        "device": "ios",
+        "location": "Putrajaya",
+        "spending": 188.9
+    },
+    {
+        "name": "Dr. Guiseppe Beer PhD",
+        "gender": "male",
+        "device": "ios",
+        "location": "Putrajaya",
+        "spending": 467.93
+    },
+    {
+        "name": "Ms. Hannah Koss",
+        "gender": "female",
+        "device": "android",
+        "location": "KL",
+        "spending": 187.16
+    },
+    {
+        "name": "Chaz Runolfsdottir DDS",
+        "gender": "male",
+        "device": "android",
+        "location": "Putrajaya",
+        "spending": 63.01
+    },
+    {
+        "name": "Eden Krajcik",
+        "gender": "female",
+        "device": "ios",
+        "location": "Selangor",
+        "spending": 249.35
+    },
+    {
+        "name": "Litzy White",
+        "gender": "female",
+        "device": "ios",
+        "location": "KL",
+        "spending": 381.69
+    },
+    {
+        "name": "Ken Dickinson",
+        "gender": "male",
+        "device": "android",
+        "location": "KL",
+        "spending": 84.8
+    },
+    {
+        "name": "Jazmin Goodwin III",
+        "gender": "female",
+        "device": "ios",
+        "location": "KL",
+        "spending": 258.13
+    },
+    {
+        "name": "Elody Lind V",
+        "gender": "female",
+        "device": "android",
+        "location": "Selangor",
+        "spending": 246.92
+    },
+    {
+        "name": "Ms. Agustina Lehner IV",
+        "gender": "female",
+        "device": "ios",
+        "location": "Selangor",
+        "spending": 337.49
+    },
+    {
+        "name": "Brad O'Reilly",
+        "gender": "male",
+        "device": "ios",
+        "location": "Putrajaya",
+        "spending": 225.56
+    },
+    {
+        "name": "Karley Kutch",
+        "gender": "male",
+        "device": "android",
+        "location": "Putrajaya",
+        "spending": 441.49
+    },
+    {
+        "name": "Armani Beier",
+        "gender": "male",
+        "device": "android",
+        "location": "KL",
+        "spending": 459.77
+    },
+    {
+        "name": "Arnoldo Hermann",
+        "gender": "male",
+        "device": "android",
+        "location": "Selangor",
+        "spending": 352.47
+    },
+    {
+        "name": "Prof. Josianne Lehner DDS",
+        "gender": "female",
+        "device": "android",
+        "location": "KL",
+        "spending": 220.64
+    },
+    {
+        "name": "Abner Weissnat",
+        "gender": "male",
+        "device": "android",
+        "location": "Putrajaya",
+        "spending": 206.69
+    },
+    {
+        "name": "Madison Konopelski",
+        "gender": "male",
+        "device": "android",
+        "location": "Selangor",
+        "spending": 451.02
+    },
+    {
+        "name": "Prof. Imani Tremblay",
+        "gender": "male",
+        "device": "ios",
+        "location": "Selangor",
+        "spending": 474.42
+    },
+    {
+        "name": "Fern Thompson II",
+        "gender": "male",
+        "device": "android",
+        "location": "Selangor",
+        "spending": 388.38
+    },
+    {
+        "name": "Katharina Lubowitz",
+        "gender": "female",
+        "device": "ios",
+        "location": "Putrajaya",
+        "spending": 247.51
+    },
+    {
+        "name": "Bettie Schimmel Jr.",
+        "gender": "female",
+        "device": "android",
+        "location": "Putrajaya",
+        "spending": 198.76
+    },
+    {
+        "name": "Gregg Ritchie",
+        "gender": "male",
+        "device": "ios",
+        "location": "Selangor",
+        "spending": 203.74
+    },
+    {
+        "name": "Felicity Nicolas",
+        "gender": "female",
+        "device": "android",
+        "location": "Putrajaya",
+        "spending": 450.82
+    },
+    {
+        "name": "Kelsie Pacocha",
+        "gender": "female",
+        "device": "ios",
+        "location": "KL",
+        "spending": 89.83
+    },
+    {
+        "name": "Marcelle Rippin PhD",
+        "gender": "female",
+        "device": "ios",
+        "location": "Selangor",
+        "spending": 263.47
+    },
+    {
+        "name": "Lulu Rempel",
+        "gender": "female",
+        "device": "ios",
+        "location": "Putrajaya",
+        "spending": 306.08
+    },
+    {
+        "name": "Mrs. Retha Flatley Sr.",
+        "gender": "female",
+        "device": "ios",
+        "location": "Putrajaya",
+        "spending": 361.5
+    },
+    {
+        "name": "Johathan Gibson III",
+        "gender": "male",
+        "device": "ios",
+        "location": "KL",
+        "spending": 5.95
+    },
+    {
+        "name": "Kellie Quitzon",
+        "gender": "female",
+        "device": "android",
+        "location": "Putrajaya",
+        "spending": 350.82
+    },
+    {
+        "name": "Herbert O'Reilly",
+        "gender": "male",
+        "device": "android",
+        "location": "KL",
+        "spending": 20.77
+    },
+    {
+        "name": "Prof. Charlene Jaskolski Sr.",
+        "gender": "female",
+        "device": "ios",
+        "location": "Putrajaya",
+        "spending": 185.39
+    },
+    {
+        "name": "Alivia Altenwerth",
+        "gender": "female",
+        "device": "android",
+        "location": "Putrajaya",
+        "spending": 414.45
+    },
+    {
+        "name": "Dr. Wilma Price DVM",
+        "gender": "female",
+        "device": "android",
+        "location": "Putrajaya",
+        "spending": 366.17
+    },
+    {
+        "name": "Alessia Mayert",
+        "gender": "female",
+        "device": "android",
+        "location": "Selangor",
+        "spending": 155.2
+    },
+    {
+        "name": "Mr. Jaycee Sporer",
+        "gender": "male",
+        "device": "ios",
+        "location": "KL",
+        "spending": 156.93
+    },
+    {
+        "name": "Lucio Labadie",
+        "gender": "male",
+        "device": "ios",
+        "location": "Putrajaya",
+        "spending": 58.89
+    },
+    {
+        "name": "Prof. Easton Howe Jr.",
+        "gender": "male",
+        "device": "ios",
+        "location": "Selangor",
+        "spending": 275.45
+    },
+    {
+        "name": "Miss Maddison Stiedemann",
+        "gender": "female",
+        "device": "android",
+        "location": "KL",
+        "spending": 34.32
+    },
+    {
+        "name": "Prof. Wallace Swaniawski DDS",
+        "gender": "male",
+        "device": "android",
+        "location": "Putrajaya",
+        "spending": 391.23
+    },
+    {
+        "name": "Manley Wisoky",
+        "gender": "male",
+        "device": "android",
+        "location": "Putrajaya",
+        "spending": 447.02
+    },
+    {
+        "name": "Leif O'Hara",
+        "gender": "male",
+        "device": "ios",
+        "location": "Putrajaya",
+        "spending": 224.23
+    },
+    {
+        "name": "Sandra Moore V",
+        "gender": "female",
+        "device": "ios",
+        "location": "Putrajaya",
+        "spending": 416.59
+    },
+    {
+        "name": "Prof. D'angelo Maggio",
+        "gender": "male",
+        "device": "android",
+        "location": "Putrajaya",
+        "spending": 475.98
+    },
+    {
+        "name": "Ardella Smith",
+        "gender": "female",
+        "device": "ios",
+        "location": "KL",
+        "spending": 140.98
+    },
+    {
+        "name": "Kathleen Monahan",
+        "gender": "female",
+        "device": "ios",
+        "location": "Selangor",
+        "spending": 381.88
+    }
+]
